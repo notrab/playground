@@ -1,0 +1,15 @@
+{
+  "name": "turso-openai-embeddings",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@libsql/client": "^0.7.0",
+    "openai": "^4.52.2"
+  }
+}
